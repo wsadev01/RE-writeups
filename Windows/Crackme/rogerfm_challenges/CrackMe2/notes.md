@@ -8,11 +8,7 @@ PEiD 0.95: MASM32/TASM32<br>
 CFF Explorer: TASM/MASM<br>
 Disassembler: Ida freeware 7.0<br>
 <br>
-# Observations
---------------------------
-<br>
-## Before Executing it
-<br>
+# Observations<br>
 1) It looks more obfuscated than the first one<br>
 2) The username must be at least 4 characters<br>
 3) UPDATE: Indeed, there is a strlen in the function sub_40117F<br>
@@ -23,4 +19,4 @@ Disassembler: Ida freeware 7.0<br>
 7) Update, i found the password by changing the zero flag, therefore the binary behave like i wanted to popping out the password. Also found a number (3570), i assume this is the serial that i talked about... but respecting to username i just found a compare between eax and number 0 (0x30 in hex), lets try it...<br>
 8) UPDATE: It is not that the username, there is some weird increment and decrement part of the code, that runs almost 8 times, lets analyze that part.. (Offset 0x004011CF)<br>
 9) UPDATE: I believe that that thing, does not run 8 times, it runs in function of the length of the username input, i believe that this is a for loop.<br>
-10)LAST UPDATE: Ok so, i realized, this can be cracked with a keygen but i will do it later, just change the Zero Flag on you debugger and make the program to show the password, solved but not completely cracked, we will 
+10)LAST UPDATE: Ok so, i realized, this can be cracked with a keygen but i will do it later, just change the Zero Flag on you debugger and make the program to show the password, solved but not completely cracked, i will upload that later and make a video explaining how i do that keygen
