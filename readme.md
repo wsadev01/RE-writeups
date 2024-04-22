@@ -26,4 +26,4 @@
  
  ## Collaborations
  ------------------------
- Feel free to collaborate with your own crackmes/keygenme/unpackme, if you can, send me an email notification to **torsw@protonmail.com**, otherwise, just do a pull request adding a new file.<br>
+ Feel free to collaborate with your own crackmes/keygenme/unpackme, if you can, send me an email notification to *[wsadev](mailto:wsadev@duck.com)*, otherwise, just do a pull request adding a new file.<br>
