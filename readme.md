@@ -23,7 +23,3 @@
  Keeping that 5 things in mind at all time, and with the right knowledge and time, i believe you can solve any challenge that you propose.<br><br>
  Oh!, and last but not least:<br>&emsp;If you need a distraction, take it, your brain is asking for it, sometimes begging for it, play a game, read a book, relax, then go back stronger, but absolutely **NEVER**, overwhelm your mind, you will get again, frustration.
  <br>
- 
- ## Collaborations
- ------------------------
- Feel free to collaborate with your own crackmes/keygenme/unpackme, if you can, send me an email notification to *[wsadev](mailto:wsadev@duck.com)*, otherwise, just do a pull request adding a new file.<br>
